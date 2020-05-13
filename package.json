@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "surge": "surge",
     "start": "http-server -o",
-    "electron": "electron index.js"
+    "electron": "electron index.js",
+    "electron-packager": "electron-packager ."
   },
   "prettier": {
     "tabWidth": 2,
